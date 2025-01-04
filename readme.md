@@ -1,0 +1,1 @@
+This is a simple script to add a self-signed SSL certificate to your Pi-Hole instance
